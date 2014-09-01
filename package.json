@@ -26,6 +26,7 @@
     },
     "dependencies": {
         "passport-local": "1.0.x",
+        "restberry-errors": "0.1.x",
         "restberry-logger": "0.1.x",
         "restberry-utils": "0.1.x",
         "underscore": "1.5.x"
