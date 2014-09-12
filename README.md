@@ -29,5 +29,5 @@ restberry
 ```
 
 This will add a email and a password field to the User and the possibility to
-authenticate with those. Two new routes have been created to the User:
-POST /login and GET /logout.
+authenticate with those. One new routes have been created to the User:
+POST /login.

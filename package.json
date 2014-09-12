@@ -24,6 +24,7 @@
     "description": "Passport-local wrapper for Restberry Auth",
     "homepage": "http://restberry.com",
     "keywords": [
+        "passport",
         "restberry"
     ],
     "license": "MIT",
@@ -33,5 +34,5 @@
         "type": "git",
         "url": "https://github.com/materik/restberry-auth-local.git"
     },
-    "version": "0.1.2"
+    "version": "0.1.3"
 }
