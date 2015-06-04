@@ -19,7 +19,7 @@
         "restberry-logger": "0.1.x",
         "restberry-modules": "0.2.x",
         "restberry-utils": "0.1.x",
-        "underscore": "1.5.x"
+        "underscore": "1.8.x"
     },
     "description": "Passport-local wrapper for Restberry Auth",
     "homepage": "http://restberry.com",
