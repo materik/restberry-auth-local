@@ -1,6 +1,8 @@
 Restberry-Auth-Local
 ====================
 
+[![](https://img.shields.io/npm/v/restberry-auth-local.svg)](https://www.npmjs.com/package/restberry-auth-local) [![](https://img.shields.io/npm/dm/restberry-auth-local.svg)](https://www.npmjs.com/package/restberry-auth-local)
+
 Passport-local wrapper for Restberry Auth. This package implements the Auth
 interface of Restberry-Modules and can be used by Restberry.
 
