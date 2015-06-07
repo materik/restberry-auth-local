@@ -4,7 +4,7 @@
         "email": "materik@me.com"
     },
     "bugs": {
-        "url": "https://github.com/materik/restberry-auth-local/issues"
+        "url": "https://github.com/materik/restberry-passport-local/issues"
     },
     "contributors": [
         {
@@ -20,7 +20,7 @@
         "restberry-utils": "1.0.x",
         "underscore": "1.8.x"
     },
-    "description": "Passport-local wrapper for Restberry Auth",
+    "description": "Passport-local wrapper for Restberry",
     "homepage": "http://restberry.com",
     "keywords": [
         "passport",
@@ -28,10 +28,10 @@
     ],
     "license": "MIT",
     "main": "index.js",
-    "name": "restberry-auth-local",
+    "name": "restberry-passport-local",
     "repository": {
         "type": "git",
-        "url": "https://github.com/materik/restberry-auth-local.git"
+        "url": "https://github.com/materik/restberry-passport-local.git"
     },
-    "version": "0.2.10"
+    "version": "1.0.0"
 }

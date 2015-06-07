@@ -1,22 +1,22 @@
-Restberry-Auth-Local
-====================
+Restberry-Passport-Local
+========================
 
-[![](https://img.shields.io/npm/v/restberry-auth-local.svg)](https://www.npmjs.com/package/restberry-auth-local) [![](https://img.shields.io/npm/dm/restberry-auth-local.svg)](https://www.npmjs.com/package/restberry-auth-local)
+[![](https://img.shields.io/npm/v/restberry-passport-local.svg)](https://www.npmjs.com/package/restberry-passport-local) [![](https://img.shields.io/npm/dm/restberry-passport-local.svg)](https://www.npmjs.com/package/restberry-passport-local)
 
 Passport-local wrapper for Restberry.
 
 ## Install
 
 ```
-npm install restberry-auth-local
+npm install restberry-passport-local
 ```
 
 ## Usage
 
 ```
-var restberryAuth = require('restberry-auth');
+var restberryPassport = require('restberry-passport');
 
-var auth = restberryAuth.config(function(auth) {
+var auth = restberryPassport.config(function(auth) {
     ...
 })
 .use('local', {
