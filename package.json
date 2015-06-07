@@ -17,7 +17,6 @@
         "passport-local": "1.0.x",
         "restberry-errors": "1.0.x",
         "restberry-logger": "1.0.x",
-        "restberry-modules": "0.2.x",
         "restberry-utils": "1.0.x",
         "underscore": "1.8.x"
     },
@@ -34,5 +33,5 @@
         "type": "git",
         "url": "https://github.com/materik/restberry-auth-local.git"
     },
-    "version": "0.2.7"
+    "version": "0.2.10"
 }
