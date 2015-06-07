@@ -15,18 +15,18 @@ npm install restberry-auth-local
 
 ```
 var restberryAuth = require('restberry-auth');
-var restberryAuthLocal = require('restberry-auth-local');
 
-restberry
-    .use(restberryAuth.use(function(auth) {
-            ...
-        })
-        .use(restberryAuthLocal.config({
-            passwordMinLength: 8,
-            additionalFields: {
-                ...
-            },
-        });
+var auth = restberryAuth.config(function(auth) {
+    ...
+})
+.use('local', {
+    passwordMinLength: 8,
+    additionalFields: {
+        ...
+    },
+});
+
+restberry.use(auth);
 ```
 
 This will add a email and a password field to the User and the possibility to
