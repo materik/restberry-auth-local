@@ -1,7 +1,7 @@
 {
     "author": {
         "name": "Mattias Eriksson",
-        "email": "materik@me.com"
+        "email": "thematerik@gmail.com"
     },
     "bugs": {
         "url": "https://github.com/materik/restberry-passport-local/issues"
@@ -9,7 +9,7 @@
     "contributors": [
         {
             "name": "Mattias Eriksson",
-            "email": "materik@me.com"
+            "email": "thematerik@gmail.com"
         }
     ],
     "dependencies": {
@@ -23,6 +23,7 @@
     "description": "Passport-local wrapper for Restberry",
     "homepage": "http://restberry.com",
     "keywords": [
+        "local",
         "passport",
         "restberry"
     ],
@@ -33,5 +34,5 @@
         "type": "git",
         "url": "https://github.com/materik/restberry-passport-local.git"
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
