@@ -21,9 +21,6 @@ var auth = restberryPassport.config(function(auth) {
 })
 .use('local', {
     passwordMinLength: 8,
-    additionalFields: {
-        ...
-    },
 });
 
 restberry.use(auth);
@@ -31,4 +28,4 @@ restberry.use(auth);
 
 This will add a email and a password field to the User and the possibility to
 authenticate with those. One new routes have been created to the User:
-POST /login.
+- POST /login
