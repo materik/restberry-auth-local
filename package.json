@@ -20,7 +20,7 @@
         "restberry-utils": "1.0.x",
         "underscore": "1.8.x"
     },
-    "description": "Passport-local wrapper for Restberry",
+    "description": "Restberry Passport wrapper for passport-local",
     "homepage": "http://restberry.com",
     "keywords": [
         "local",
@@ -34,5 +34,5 @@
         "type": "git",
         "url": "https://github.com/materik/restberry-passport-local.git"
     },
-    "version": "1.0.2"
+    "version": "1.0.3"
 }

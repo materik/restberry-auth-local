@@ -3,7 +3,7 @@ Restberry-Passport-Local
 
 [![](https://img.shields.io/npm/v/restberry-passport-local.svg)](https://www.npmjs.com/package/restberry-passport-local) [![](https://img.shields.io/npm/dm/restberry-passport-local.svg)](https://www.npmjs.com/package/restberry-passport-local)
 
-Passport-local wrapper for Restberry.
+Restberry Passport wrapper for passport-local.
 
 ## Install
 
